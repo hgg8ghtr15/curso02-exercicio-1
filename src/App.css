@@ -1,7 +1,18 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
 .App {
-  text-align: center;
+  text-align: left;
+}
+.App h3{
+  margin-top: 10px;
+  text-align: left;
 }
 
+.Post{
+  padding: 30px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
